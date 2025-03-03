@@ -8,7 +8,7 @@ This project focuses on detecting anomalies in time-series data using various ma
 - [Model Training](#model-training)
 - [Evaluation](#evaluation)
 - [Results](#results)
-- [Conclusion](#conclusion)
+- [Final Thoughts](#final-thoughts)
 
 
 ## Installation
