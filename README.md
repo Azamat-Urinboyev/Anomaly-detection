@@ -3,7 +3,7 @@
 This project focuses on detecting anomalies in time-series data using various machine learning models. The main code is implemented in the Jupyter Notebook `main.ipynb`.
 
 ## Table of Contents
-- [Installation](link)
+- [Installation](#installation)
 - [Data Preprocessing](#data-preprocessing)
 - [Model Training](#model-training)
 - [Evaluation](#evaluation)
